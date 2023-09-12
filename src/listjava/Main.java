@@ -35,7 +35,7 @@ public class Main {
 		for(Map<String, String> map : listmap) {
 			System.out.println("所属：" + map.get("所属"));
 			System.out.println("氏名：" + map.get("氏名"));
-			System.out.println("ーーーーーーーーーーー");
+			System.out.println("---------------------");
 		}
 	
 
